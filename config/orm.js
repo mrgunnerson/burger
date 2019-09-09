@@ -6,7 +6,7 @@ var connection = require("./connection.js");
 // * `insertOne()`
 // * `updateOne()`
 
-var connection = require("../config/connection.js");
+// var connection = require("../config/connection.js");
 
 function printQuestionMarks(num) {
     var arr=[];
